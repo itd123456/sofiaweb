@@ -1,0 +1,27 @@
+[18-Nov-2019 23:12:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 33
+[18-Nov-2019 23:13:03 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 33
+[18-Nov-2019 23:14:08 Asia/Manila] PHP Warning:  require(../includes/conn.php): failed to open stream: No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:14:08 Asia/Manila] PHP Warning:  require(../includes/conn.php): failed to open stream: No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:14:08 Asia/Manila] PHP Fatal error:  require(): Failed opening required '../includes/conn.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:14:23 Asia/Manila] PHP Warning:  require(../includes/conn.php): failed to open stream: No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:14:23 Asia/Manila] PHP Warning:  require(../includes/conn.php): failed to open stream: No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:14:23 Asia/Manila] PHP Fatal error:  require(): Failed opening required '../includes/conn.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 29
+[18-Nov-2019 23:17:25 Asia/Manila] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php:35) in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/tcpdf.php on line 7657
+[18-Nov-2019 23:18:00 Asia/Manila] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 95
+[18-Nov-2019 23:19:37 Asia/Manila] PHP Recoverable fatal error:  Object of class TCPDF could not be converted to string in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 90
+[18-Nov-2019 23:19:37 Asia/Manila] PHP Warning:  unlink(/tmp/__tcpdf_ec641faec143c67bfeca5080946a5099_imgmask_alpha_03e3d59490e4bd6dead9662b26323c29): No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/tcpdf.php on line 7801
+[18-Nov-2019 23:19:37 Asia/Manila] PHP Warning:  unlink(/tmp/__tcpdf_ec641faec143c67bfeca5080946a5099_imgmask_plain_03e3d59490e4bd6dead9662b26323c29): No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/tcpdf.php on line 7801
+[18-Nov-2019 23:44:45 Asia/Manila] PHP Parse error:  Invalid numeric literal in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 304
+[18-Nov-2019 23:45:28 Asia/Manila] PHP Parse error:  Invalid numeric literal in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 304
+[16-Dec-2019 10:41:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php:333
+Stack trace:
+#0 {main}
+  thrown in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/pay/pay_slip.php on line 333
+[16-Dec-2019 10:41:34 Asia/Manila] PHP Warning:  unlink(/tmp/__tcpdf_f3d13b4d9b57d97c4d1ee4176198ebf9_imgmask_alpha_03e3d59490e4bd6dead9662b26323c29): No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/tcpdf.php on line 7801
+[16-Dec-2019 10:41:34 Asia/Manila] PHP Warning:  unlink(/tmp/__tcpdf_f3d13b4d9b57d97c4d1ee4176198ebf9_imgmask_plain_03e3d59490e4bd6dead9662b26323c29): No such file or directory in /home/hrpositi/public_html/richworldinfra.hrpositive.ph/admin/rich/tcpdf.php on line 7801
